@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Title</title>
+    <title>PY525: Lecture 1</title>
     <meta charset="utf-8">
     <style>
       @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
@@ -15,31 +15,600 @@
       }
       .remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
     </style>
+
+	<style type="text/css">
+body { font-family: 'Times';letter-spacing:0.025em;}
+h1, h2, h3 {
+  font-family: 'Times';
+  font-weight: normal;
+}
+.remark-slide-content h1 { font-size: 2.4em; color:#CF652F;font-weight: bold;letter-spacing:0.05em;margin-top:-.25em}
+.remark-slide-content h2 { font-size: 1.55em;color:#CF652F;font-weight: bold;letter-spacing:0.05em;margin-top:0em}
+.remark-slide-content  h3 { font-size: 1.4em;color:#CF652F;font-weight: bold;letter-spacing:0.05em;margin-top:0em}
+.remark-slide-content p,ol,ul { font-size: 1.2em; }
+.remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
+.remark-fading { z-index: 9; }
+.toc {bottom:12px;opacity:0.5;position:absolute;left:30px;font-size: 1.4em;}/*JML*/
+/*I find this by jgrepping for remark for slide-number, see resources.js*/
+
+/* Thanks to http://www.partage-it.com/animez-vos-presentations-remark-js/  (in French) */
+.remark-slide-container {transition: opacity 0.5s ease-out;opacity: 0;}
+.remark-visible {transition: opacity 0.5s ease-out;opacity: 1;}
+
+/* Two-column layout */
+.left-column {
+  width: 50%;
+  float: left;
+}
+.right-column {
+  width: 49%;
+  float: right;
+  padding-top: 0em;
+  margin-top: 0em;
+  text-align: left;
+}
+.footnote {
+  position:absolute;
+  bottom: 2em;
+  left: 14em;
+  font-size: 0.7em;
+ }
+
+/* Some special classes */
+.maintitle {font-size: 1.6em; color:#CF652F;font-weight:bold;letter-spacing:0.05em}
+.title {font-size: 2.4em; color:#CF652F;font-weight:bold;letter-spacing:0.05em}
+.author {font-size: 1.4em; color:#CF652F;font-weight:bold;letter-spacing:0.02em}
+.coauthor {font-size: 1.0em; color:#CF652F;font-weight:bold;letter-spacing:0.02em}
+.institution {font-size: 1.0em;}
+.date {font-size: 1.0em;font-style: italic}
+.note {font-size: 0.8em;font-style: italic}
+
+.caption {font-size: 0.65em;}
+.cite {font-size: 0.8em; color:#33AA99;font-style: italic}
+.strike {color:salmon;text-decoration:line-through}
+
+/*Set color scheme for links.*/
+a {text-decoration: none; color: #666666;text-align:center; width: 24%}
+/*Setting link properties is particular, do not change order below*/
+a:visited {color:#666666}
+a:hover {color:#33AA99}
+a:active, a#active {color:#FF9700;}
+ </style>
+
   </head>
   <body>
     <textarea id="source">
 
 class: center, middle
 
-# My first talk using Remark.JS
+# Computational Physics 
+
+# PY525, FALL 2020 
+
+## Vladimir Skokov 
+
+## vskokov@ncsu.edu 
+
 
 ---
 
-# Well I will be trying a few things
+# Outline
 
-1. Equations
-2. Two column style
-3. Images
+1. Introduction: computational physics and tools 
+
+2. Course philosophy... 
+it might be very different from previous years   
+
+3. A few words about me 
+
+4. Machine numbers; error analysis  
 
 ---
 
 # Introduction
 
-    </textarea>
+## Frontier research in physics is computational 
+
+
+<img src="https://www.researchgate.net/profile/Simon_Catterall/publication/258083210/figure/fig2/AS:614118532866089@1523428676864/1-Hadron-spectrum-from-many-different-lattice-QCD-calculations-15-16-17-18-19-20.png" alt="Drawing" style="width: 700px;"/>
+
+
+---
+
+# Gravitational waves  
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/LIGO_measurement_of_gravitational_waves.svg/1920px-LIGO_measurement_of_gravitational_waves.svg.png" alt="Drawing" style="width: 700px;"/>
+
+
+
+
+---
+
+# CP as a subfield of computational science
+
+
+- CP is a subfield of computational science.
+
+
+- CP is a multidisciplinary subject combining aspects of physics, applied mathematics, and computer
+science, with the aim of solving *realistic physics problems*. 
+
+- Other computational sciences replace the physics with biology, chemistry, engineering, and so on, and
+together face grand challenge problems such as
+Climate prediction,  
+ Materials science, 
+ Structural biology,
+ Superconductivity, 
+ Semiconductor design, 
+ Drug design,
+ Human genome, 
+ **Quantum chromodynamics** (strongly interacting field theories),
+ Turbulence,
+ Speech and vision, 
+ Relativistic astrophysics, 
+ Vehicle dynamics,
+ Nuclear fusion, etc 
+
+
+---
+# Computational science \\(\ne \\) computer science 
+
+Whereas related, computational science is not computer science. 
+
+- Computer science studies
+computing for its own intrinsic interest and develops the hardware and software tools that computational scientists use. 
+
+- Likewise, applied mathematics develops and studies the algorithms
+that computational scientists use. 
+
+- The focus of this course  is on solving physical problems; 
+we need to understand the computer science  and math tools well enough to be able to solve our problems correctly.
+
+
+
+---
+
+## Albert Einstein:
+
+- Computers are incredibly fast, accurate, and stupid; 
+
+
+- humans are incredibly slow, inaccurate, and brilliant; 
+
+
+- together they are powerful beyond imagination.
+
+
+Computers follow your instructions. We will use Python to "communicate" instructions to computer.  
+
+---
+
+# Python 
+
+The Python language is actually 
+1. a core programming language 
+2. plus a family of packages.
+
+1 and 2 together  comprise an ecosystem for computing.
+
+These packages and combination
+of them extend the language to meet the specialized needs of science, engineering etc. 
+
+For example, symbolic and mathematical computing (like
+that in Maple and Mathematica) can be done with the packages, Sympx, mpmath and Sage.
+
+Sympx does algebraic computing. Mpmath is a library for multiprecision floating-point arithmetic that also contains many high-level mathematical operations, while Sage combines many
+open-source packages to create a viable, free and in some ways superior alternative to Maple,
+Mathematica and Matlab. 
+
+
+---
+
+This course is mainly concerned with numerical computing. Thus  we will extensively use the following Python packages: **NumPy**, **matplotlib** and  **SciPy**. 
+
+- **NumPy** brings high-level multidimensional arrays into Python, and is used as the basis for many of the numerical procedures in its
+libraries.
+
+- **Matplotlib** provides the tools for data visualization (2-D and 3-D plots of publication quality).
+
+- **SciPy** is a collection of tools that provides wrapper
+for many existing libraries in other languages, such as **LAPACK**  (linear algebra) and
+**FFT** (fast Fourier transforms).  
+
+---
+
+# Google colab
+
+
+- You do not have to install Python on your computer to start working on this course problems.   
+
+- For most of the tasks, Google Colab platform is sufficient to perform numerical calculations. 
+
+- Use your UNITY-ID to access it 
+[https://colab.research.google.com/]()
+
+
+---
+
+# Programming  skills 
+
+- You do not have to have any special programming skills to succeed in this course
+
+- However, the course homework might be somewhat challenging if you have no programming skills
+
+- If you are interested in having a few tutorial sessions on *python* and *google colab*, email me vskokov@ncsu.edu 
+
+
+
+---
+
+# Philosophy of the course 
+
+- We will learn a few numerical algorithms 
+	- Optimization of functions
+	- Partial differential equations
+	- Fast Fourier Transforms
+	- Monte Carlo Integration and Monte Carlo Methods
+	- Modeling of data,  machine learning 
+	- ... 
+
+- In application to models of the real world; physics of  
+	- Dynamical Chaos
+	- Random Walk
+	- Statistical mechanics
+	- Ising model, phase transitions
+	- Molecular Dynamics
+	- Quantum Systems
+	- Strongly interacting field theories 
+
+
+---
+
+# Philosophy of the course 
+
+- Most of the courses on this subject are either 
+	- about a specific programming language (e.g. C++)
+	- about numerical methods without application to real world physics problems 
+
+- This course will be different 
+
+- We will consider physics problems and learn numerical methods in application to these problems  
+
+
+
+---
+
+# Textbook 
+
+- Computational Physics by Nicholas J. Giordano and Hisao Nakanishi
+
+- Computational Physics by Philipp O.J. Scherer; a pdf version is available for free online, see syllabus on Moodle  
+
+- This course will touch on a few modern topics that are **NOT** covered in these books  
+
+
+
+---
+
+# Grading 
+
+- There will be 2 tests/projects and a final paper/project for the course. 
+
+- Class participation is greatly
+encouraged and will contribute positively towards the final grade. 
+
+- The numerical grade is
+calculated at the end of the semester with the following weighting.
+	- **40% Homework**
+	- 20% Midterm(s)
+	- 20% Class Participation
+	- 20% Final project/paper 
+
+
+---
+
+# Course notes and homework 
+
+- Will be available on Moodle after each class 
+
+- Homework is due two weeks after the assignment 
+
+- Some of the classes will be flipped 
+
+
+
+---
+
+# Unprecedented circumstances: C-19 
+
+- This course is operating in unprecedented times
+
+- I will do my best to collaborate with you and help you in learning the material 
+
+- For this I will need to know if you have questions and problems with the course 
+
+- Do not hesitate to reach out and schedule outside class Zoom meeting or ask a question via Slack and email 
+
+
+
+---
+
+# A few words about my research 
+
+- Theoretical high energy/nuclear physics 
+
+- Specifically: Quantum ChromoDynamics (QCD) - the theory of strong interactions
+
+- More specifically: QCD processes in collisions of heavy ions and in collisions of electrons with nuclei 
+
+- Even more: 
+	- phase transition in QCD at finite temperature and chemical potential 
+	- gluon saturation phenomena and nuclear structure at high energy   
+
+
+---
+
+
+# Error Analysis:
+---------------------------------------------
+
+
+Sources of errors:
+
+-   Experimental/Statistical uncertainty
+
+-   Rounding errors
+
+-   Truncation errors
+
+To understand *rounding errors* we have to consider machine representation for floating point numbers 
+
+
+---
+
+# Machine numbers
+---------------------------------------------
+
+Floating point numbers are internally stored as the product of 
+
+- sign, \\(s\\),
+
+- binary mantissa, \\(m\\),
+
+- and an exact integer exponent, \\(E\\) 
+
+$$s\times m\times 2^{E-e}$$ 
+
+\\(e\\) is the so-called bias of
+the exponent, a fixed integer constant for any given machine.
+
+---
+
+# Mantissa
+---------------------------------------------
+
+
+- Mantissa is usually normalized such that its first bit is 1 and its
+value is between 1 and 2.
+
+- For this reason, mantissa can be written as
+$$m=1.f$$
+
+- \\(f\\) is called fraction and consists of the bits that
+actually are stored (no need to store 1).
+
+---
+
+# Exponent 
+-------- 
+
+- for 32-bit float, the exponent is represented in 8 bits (with \\(e\\)=127),
+the mantissa in 23; 
+
+- for 64-bit double, the exponent in 11 bits (\\(e=\\)1023), the mantissa, 52.
+
+---
+
+# Largest 32-bit float and overflow  
+-------- 
+
+
+The largest 32-bit float number can be obtained using the following
+logic: 
+
+- 8-bits for the exponent mean, that \\(E_{max}=2^8-1\\), 
+
+- the largest exponent 255 is reserved for \\(\pm \infty\\) 
+
+- the largest mantissa (\\(32-8-1 = 23\\) bits) 
+
+$$ m = 1.f   = 1 + m\_{22}  2^{22-23}  + m\_{21} 2^{21-23} + \ldots + m\_{0} 2^{0-23} $$
+
+$$= 1 + 2^{-2} + 2^{-4} + \ldots +   2^{-23} \approx 2 $$
+
+Therefore maximal number is \\(3.4 \times 10^{38}\\). A 32-bit float larger
+than this number will lead to the **overflow** error.
+
+
+---
+
+# Roundoff errors
+-------------
+
+- Input numbers are not machine numbers and have to be rounded to the
+nearest machine number. 
+
+- This is described by a formal mapping
+\\(\texttt{R} \to A\\) 
+$$x\to r(x)\,.$$
+
+- The smallest floating-point number that when added to the floating-point
+number 1, produces a floating-point result different from 1 is termed
+the *machine accuracy* 
+\\(\epsilon_m \\). 
+
+- It corresponds to to a change of one
+in the least significant bit of the mantissa.
+
+---
+
+# Roundoff errors
+-------------
+
+
+- Important to remember that the smallest number that can be represented
+numerically is defined largely by the exponent; 
+
+- The machine
+accuracy is defined by the mantissa! 
+
+- Any arithmetic operation among
+floating numbers leads to an introduction of an additional fractional
+error of at *least* \\(\epsilon_m\\). 
+
+- This is *roundoff error*.
+
+
+---
+
+# Roundoff errors
+-------------
+
+
+- Important to remember that the smallest number that can be represented
+numerically is defined largely by the exponent; 
+
+- The machine
+accuracy is defined by the mantissa! 
+
+- Any arithmetic operation among
+floating numbers leads to an introduction of an additional fractional
+error of at *least* \\(\epsilon_m\\). 
+
+- This is *roundoff error*.
+
+
+---
+
+# Roundoff errors
+-------------
+
+
+ - If you perform \\(N\\) arithmetic calculations, you might be lucky to have a
+total roundoff error on the order of \\(\sqrt{N}\epsilon_m\\). 
+
+- The square
+signifies one dimensional random-walk. 
+
+- However, due to regularities in
+the algorithms, often the total roundoff error is of order
+\\(N\epsilon_m\\).
+
+
+
+---
+
+# Addition 
+--------------
+
+- Consider the sum of two floating point numbers 
+$$
+    y = x_1 + x_2 \,.  
+$$ 
+
+- The input has to be approximated
+by the machine representation 
+$$ x\_{1,2} \to r(x\_{1,2}) = x\_{1,2}(1+\epsilon\_{1,2})  \,.  $$
+- The sum of \\(r(x_{1,2})\\) does not have to be exactly representable by an
+exact machine number, thus there is an associated error \\(\alpha\\):
+$$ \widetilde {y} = r(r(x_1)+r(x_2)) = \left[ x_1 (1+\epsilon_1) + x_2 (1+\epsilon_2)\right] (1+\alpha) $$ 
+$$ \approx y + x_1 \epsilon_1 + x_2\epsilon_2 + y \alpha\,. $$
+
+
+---
+
+# Addition 
+--------------
+
+- Therefore the relative error 
+$$
+\frac{\widetilde y -y}{y} =  \frac{x_1}{x_1+x_2} \epsilon_1 + \frac{x_2}{x_1+x_2}\epsilon_2 + \alpha\,
+$$
+is the largest when \\(x_1 \approx - x_2\\).
+
+- This is not an uncommon situation! 
+
+- Example 
+$$ x = \frac{-b + \sqrt{b^2-4ac}}{2}$$ 
+for \\(b>0\\) and
+\\(ac\ll b^2\\) finding \\(x\\) has to be done in a delicate way. 
+
+
+---
+
+# Multiplication 
+
+-------
+
+- Multiplication of two floating point numbers 
+$$ y = x_1 \times x_2 \,. $$ 
+
+- The result 
+$$ \widetilde y =  x_1 (1+\epsilon_1) \times  x_2 (1+\epsilon_2) \times  (1+\beta) \approx y \, (1+\epsilon_1+\epsilon_2+\beta) \,. $$
+
+- Therefore the relative error 
+$$ \frac{\widetilde y -y}{y} =  \epsilon_1 + \epsilon_2 + \beta$$
+is not enhanced for any values of \\(x_1\\) and \\(x_2\\).
+
+---
+
+# Error propagation  
+
+-------
+
+- Consider input data
+$$ \overrightarrow{x}  = (x_1,x_2,\ldots,x_n) $$ 
+to be used to compute a set of output data 
+$$ \overrightarrow{y}  = (y_1,y_2,\ldots,y_n) = f(\overrightarrow{x})\,. $$
+
+- The influence of numerical error can be analyzed by assuming that the
+error \\(\Delta \overrightarrow{x} \\) due to roundoff error and potential experimental
+uncertainties in determining \\(\overrightarrow{x}\\) is small
+
+---
+
+# Error propagation  
+
+-------
+
+
+$$ \overrightarrow{\widetilde y}  = r [ f(\overrightarrow{x} + \Delta \overrightarrow{x}) ]  $$ $$ = \left( f (\overrightarrow{x}) + \left(\frac{ \partial y }{ \partial x } \right) \Delta \overrightarrow{x}\right) (1+\epsilon) \,,$$
+where 
+$$ \left(\frac{ \partial y }{ \partial x } \right)_{i,j}  = \left(\frac{ \partial y_i }{ \partial x_j } \right) \, $$
+and
+\\( \epsilon = {\rm diag} (\epsilon_1,\epsilon_2, \ldots , \epsilon_n) \\).
+
+
+</textarea>
     <script src="https://remarkjs.com/downloads/remark-latest.min.js">
     </script>
-    <script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS_HTML&delayStartupUntil=configured" type="text/javascript"></script>
+	<script>
       var slideshow = remark.create();
-    </script>
+    
+      // Setup MathJax
+      MathJax.Hub.Config({
+          tex2jax: {
+          skipTags: ['script', 'noscript', 'style', 'textarea', 'pre']
+          }
+      });
+      MathJax.Hub.Queue(function() {
+          $(MathJax.Hub.getAllJax()).map(function(index, elem) {
+              return(elem.SourceElement());
+          }).parent().addClass('has-jax');
+      });
+
+      MathJax.Hub.Configured();
+	</script>
   </body>
 </html>
