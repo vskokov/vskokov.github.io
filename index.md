@@ -25,6 +25,7 @@ Our primary research interests irevolve around two main subject:
 > Nuclear structure and nuclear wave functions at high energies. Recent experiment and advances in theory suggest that, at high energies, every hadron, including proton, neutron and nucleus appear as dense “walls” of gluons, creating what might be among the strongest (chromo)electric and magnetic fields in nature. Studying this novel form of matter, the so-called color glass condensate, will help better understand non-linear dynamics of quantum-chromodynamics.
 
 
+
 {: .important-title }
 > QCD phase diagram 
 > 
