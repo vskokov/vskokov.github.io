@@ -4,42 +4,42 @@
   date: 'September 11-15, 2023 '
 
 - name: 'Invited lectures "Aspects of Entanglement in DIS" '
-  conf: 'Summer School "UConn-NSF summer school on saturation and EIC", '
+  conf: 'Summer School "UConn-NSF summer school on saturation and EIC"'
   loc: 'University of Connecticut'
   date: 'August 7-9, 2023 '
 
 - name: '"Rethinking running coupling in JIMWLK/BK"'
-  conf: 'Workshop SURGE collaboration meeting, '
+  conf: 'Workshop SURGE collaboration meeting'
   loc: 'Brookhaven National Laboratory '
   date: 'June 29,  2023'
 
 - name: '"Overview of the Initial State Working Group"'
-  conf: 'Workshop SURGE collaboration meeting, '
+  conf: 'Workshop SURGE collaboration meeting'
   loc: 'Brookhaven National Laboratory '
   date: 'June 28,  2023'
 
 - name: '"Rethinking running coupling in JIMWLK/BK"'
-  conf: 'Workshop QCD Evolution, '
+  conf: '[Workshop QCD Evolution](https://indico.cern.ch/event/1239374/) '
   loc: 'IJCLab, Orsay, France'
   date: 'May 26,  2023'
 
 - name: '"CGC for ultra-peripheral Pb+Pb collisions at the Large Hadron Collider", '
-  conf: 'Workshop "CGC at Electron Ion Collider",  '
+  conf: 'Workshop "CGC at Electron Ion Collider" '
   loc: 'ECT*, Trento, Italy'
   date: 'May 17, 2023'
 
 - name: 'Seminar "Yang Lee edge singularity"'
-  conf: 'Bielefeld University, '
+  conf: 'Bielefeld University '
   loc: 'Bielefeld '
   date: 'May 11, 2023'
 
 - name: 'Seminar "Frontier of universality in critical statics:  Yang Lee edge singularity"'
-  conf: 'Muenster University, '
+  conf: 'Muenster University '
   loc: 'Muenster '
   date: 'May 9, 2023'
 
 - name: 'Seminar "Yang Lee edge singularity"'
-  conf: 'Universidad de la Republica,'
+  conf: 'Universidad de la Republica'
   loc: 'Uruguay'
   date: 'Feb 7, 2023'
 
@@ -48,8 +48,8 @@
   loc: 'University of Washington '
   date: 'November 23, 2022'
 
-- name: 'Invited talk "Entangelement and ignorace entropies"'
-  conf: 'Workshop "Physics of Saturation - precision and quasicollectivity".'
+- name: 'Invited talk "Entanglement and ignorance entropies"'
+  conf: 'Workshop "Physics of Saturation - precision and quasicollectivity"'
   loc: 'Physics Department, Ben-Gurion University of the Negev'
   date: 'May 23-June 10, 2022'
  
@@ -74,7 +74,7 @@
   date: 'November 9-13, 2020'
 
 - name: 'Invited talk "Saturation corrections to dilute-dense particle production in the Color Glass Condensate"'
-  conf: 'RHIC&AGS Users group meeting '
+  conf: 'RHIC&AGS Users group meeting'
   loc: 'BNL'
   date: 'October 22, 2020 '
 
@@ -84,7 +84,7 @@
   date: 'June 15, 2020'
 
 - name: '"Entanglement, partial set of measurements, and diagonality of the density matrix in the parton model"'
-  conf: '10th International Conference  on the Hard and Electromagnetic Probes, '
+  conf: '10th International Conference  on the Hard and Electromagnetic Probes'
   loc: 'Hard Probes 2020'
   date: 'May 31 - June 5, 2020'
 
@@ -114,7 +114,7 @@
   date: 'November 1, 2019 '
  
 - name: 'Invited talk "Quantum ChromoDynamics in extreme conditions: Search for Critical Point"'
-  conf: 'GSI/FAIR Symposium on QCD and hadron physics, '
+  conf: 'GSI/FAIR Symposium on QCD and hadron physics '
   loc: 'GSI/FAIR, Darmstadt, Germany'
   date: 'August 22, 2019'
 
@@ -148,7 +148,7 @@
   loc: 'Aix Les Bains, France'
   date: 'September 30 - October 5, 2018'
 
-- name: 'Invited plenary talk “High density parton physics”'
+- name: 'Invited plenary talk “High-density parton physics”'
   conf: 'Electron-Ion Collider User Group Meeting 2018'
   loc: 'The Catholic University of America, Washington D.C.'
   date: 'July 30 - August 2, 2018'
@@ -164,22 +164,22 @@
   date: 'May 20, 2018'
 
 - name: 'Group Seminar "Bose Enhancement, Liouville action and shape of the proton"'
-  conf: 'Nuclear Theory Group, '
+  conf: 'Nuclear Theory Group '
   loc: 'Brookhaven National Laboratory'
   date: 'May 11, 2018'
 
 - name: 'Seminar "Holonomy potential beyond one loop: Status report"'
-  conf: 'Ohio State University, '
+  conf: 'Ohio State University '
   loc: 'Columbus'
   date: 'April 19, 2018'
 
 - name: 'Heavy-Ion Forum "Multiplicity biased pA collisions in CGC framework"'
-  conf: 'CERN, '
+  conf: 'CERN '
   loc: 'Geneva, Switzerland'
   date: 'March 22, 2018'
 
 - name: 'Group seminar "When gluons go odd"'
-  conf: 'CERN, '
+  conf: 'CERN '
   loc: 'Geneva, Switzerland'
   date: 'March 15, 2018'
 
