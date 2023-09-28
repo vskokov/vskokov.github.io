@@ -1,0 +1,549 @@
+- name: 'Invited talk "Yang-Lee edge singularity and QCD phase diagram" '
+  conf: '["European network for Particle Physics, Lattice field theory and Extreme computing Final Conference"](https://indico.desy.de/event/38889/), '
+  loc: 'Institute for Physics, Humboldt University Berlin'
+  date: 'September 11-15, 2023 '
+
+- name: 'Invited lectures "Aspects of Entanglement in DIS" '
+  conf: 'Summer School "UConn-NSF summer school on saturation and EIC", '
+  loc: 'University of Connecticut'
+  date: 'August 7-9, 2023 '
+
+- name: '"Rethinking running coupling in JIMWLK/BK"'
+  conf: 'Workshop SURGE collaboration meeting, '
+  loc: 'Brookhaven National Laboratory '
+  date: 'June 29,  2023'
+
+- name: '"Overview of the Initial State Working Group"'
+  conf: 'Workshop SURGE collaboration meeting, '
+  loc: 'Brookhaven National Laboratory '
+  date: 'June 28,  2023'
+
+- name: '"Rethinking running coupling in JIMWLK/BK"'
+  conf: 'Workshop QCD Evolution, '
+  loc: 'IJCLab, Orsay, France'
+  date: 'May 26,  2023'
+
+- name: '"CGC for ultra-peripheral Pb+Pb collisions at the Large Hadron Collider", '
+  conf: 'Workshop "CGC at Electron Ion Collider",  '
+  loc: 'ECT*, Trento, Italy'
+  date: 'May 17, 2023'
+
+- name: 'Seminar "Yang Lee edge singularity"'
+  conf: 'Bielefeld University, '
+  loc: 'Bielefeld '
+  date: 'May 11, 2023'
+
+- name: 'Seminar "Frontier of universality in critical statics:  Yang Lee edge singularity"'
+  conf: 'Muenster University, '
+  loc: 'Muenster '
+  date: 'May 9, 2023'
+
+- name: 'Seminar "Yang Lee edge singularity"'
+  conf: 'Universidad de la Republica,'
+  loc: 'Uruguay'
+  date: 'Feb 7, 2023'
+
+- name: 'Seminar "Universality Frontier: Yang Lee edge singularity"'
+  conf: 'S@INT, Institute for Nuclear Theory,  '
+  loc: 'University of Washington '
+  date: 'November 23, 2022'
+
+- name: 'Invited talk "Entangelement and ignorace entropies"'
+  conf: 'Workshop "Physics of Saturation - precision and quasicollectivity".'
+  loc: 'Physics Department, Ben-Gurion University of the Negev'
+  date: 'May 23-June 10, 2022'
+ 
+- name: 'Invited talk "Entropies and multiplicity distribution in DIS"'
+  conf: 'RBRC Workshop: Small-x Physics in the EIC Era'
+  loc: 'Brookhaven National Laboratory'
+  date: 'December 15-18, 2021'
+
+- name: 'Seminar "Analytic structure of QCD crossover"'
+  conf: 'Physics Department, Ben-Gurion University of the Negev'
+  loc: 'Online'
+  date: 'April 19, 2021'
+
+- name: 'Invited talk  "Universality driven analytic structure of QCD crossover"'
+  conf: 'International workshop "FunQCD: from first principles to effective theories"'
+  loc: 'Online'
+  date: 'March 29-April1, 2021'
+
+- name: 'Invited talk "Universality driven analytic structure of QCD crossover"'
+  conf: 'XXXII International (online) Workshop on High Energy Physics “Hot problems of Strong Interactions”'
+  loc: 'Online'
+  date: 'November 9-13, 2020'
+
+- name: 'Invited talk "Saturation corrections to dilute-dense particle production in the Color Glass Condensate"'
+  conf: 'RHIC&AGS Users group meeting '
+  loc: 'BNL'
+  date: 'October 22, 2020 '
+
+- name: 'Invited journal club talk  “Universality driven analytic structure of QCD crossover: radius of convergence in baryon chemical potential”'
+  conf: 'Rice University & University of Illinois'
+  loc: 'Urbana-Champaign'
+  date: 'June 15, 2020'
+
+- name: '"Entanglement, partial set of measurements, and diagonality of the density matrix in the parton model"'
+  conf: '10th International Conference  on the Hard and Electromagnetic Probes, '
+  loc: 'Hard Probes 2020'
+  date: 'May 31 - June 5, 2020'
+
+- name: ' “Universality driven analytic structure of QCD crossover: radius of convergence in baryon chemical potential”'
+  conf: 'INT Program 20-1c; Criticality and Chirality: Novel Phenomena in Heavy Ion Collisions'
+  loc: 'Institute for Nuclear Theory,  University of Washington '
+  date: 'May 11, 2020 '
+
+- name: 'Invited Seminar "Entanglement, partial set of measurements, and diagonality of the density matrix in the parton model... aka Entropy of ignorance"'
+  conf: 'CFNS, '
+  loc: 'Brookhaven National Laboratory '
+  date: 'March 12, 2020 (last seminar before coronavirus shutdown)'
+
+- name: 'Invited talk "Finding Oddity in CGC" aka "Going odd with Larry"'
+  conf: 'Symposium on Contemporary QCD Physics and Relativistic Nuclear Collisions'
+  loc: 'Wuhan, China '
+  date: 'November 11, 2019 '
+
+- name: '"Universality driven analytic structure of QCD crossover: radius of convergence and QCD critical point"'
+  conf: 'Quark Matter 2019 - the XXVIIIth International Conference on Ultra-relativistic Nucleus-Nucleus Collisions'
+  loc: 'Wuhan, China'
+  date: 'November 6, 2019'
+
+- name: 'Colloquium "Mapping the phase diagram of strong nuclear force"'
+  conf: 'University of North Carolina '
+  loc: 'Wilmington'
+  date: 'November 1, 2019 '
+ 
+- name: 'Invited talk "Quantum ChromoDynamics in extreme conditions: Search for Critical Point"'
+  conf: 'GSI/FAIR Symposium on QCD and hadron physics, '
+  loc: 'GSI/FAIR, Darmstadt, Germany'
+  date: 'August 22, 2019'
+
+- name: '"Measuring the Weizsäcker-Williams distribution of linearly polarized gluons at an electron-ion collider through dijet azimuthal asymmetries"'
+  conf: 'Electron Ion Collider User Group meeting '
+  loc: 'Ecole Nationale Supérieure de Chimie, Paris, France'
+  date: 'July 25, 2019'
+
+- name: '"Measuring the Weizsäcker-Williams distribution of linearly polarized gluons at an electron-ion collider through dijet azimuthal asymmetries"'
+  conf: 'XXVII Workshop on Deep-Inelastic Scattering and Related Subjects - DIS2019'
+  loc: 'University of Turin, Turin, Italy'
+  date: 'April 10, 2019'
+
+- name: 'Invited talk "Models for critical fluctuations at µ=0" '
+  conf: 'EMMI Workshop "Probing the Phase Structure of Strongly Interacting Matter: Theory and Experiment"'
+  loc: 'GSI, Darmstadt, Germany'
+  date: 'March 27, 2019'
+
+- name: ' "Liouville effective theory" '
+  conf: 'RBRC review committee'
+  loc: 'RBRC, Brookhaven National Laboratory'
+  date: 'March 12, 2019'
+
+- name: 'Invited talk "Odd azimuthal anisotropy & gluon correlations in CGC"'
+  conf: 'INT Programm "Probing Nucleons and Nuclei in High Energy Collisions"'
+  loc: 'Institute for Nuclear Theory, Seattle'
+  date: 'November 9, 2018 '
+
+- name: 'Invited plenary talk “Initial-state in heavy-ion collisions at colliders: Theory summary”'
+  conf: 'Hard Probes 2018'
+  loc: 'Aix Les Bains, France'
+  date: 'September 30 - October 5, 2018'
+
+- name: 'Invited plenary talk “High density parton physics”'
+  conf: 'Electron-Ion Collider User Group Meeting 2018'
+  loc: 'The Catholic University of America, Washington D.C.'
+  date: 'July 30 - August 2, 2018'
+
+- name: 'Invited talk “Initial state perspective on the ridge”'
+  conf: 'Electron-Ion Collider User Group Meeting 2018'
+  loc: 'The Catholic University of America, Washington D.C.'
+  date: 'September 30 - August 2, 2018'
+
+- name: 'Invited talk "When gluons go odd: how classical gluon fields generate odd azimuthal harmonics for the two-gluon correlation function in high-energy collisions"'
+  conf: 'QCD Evolution Workshop, '
+  loc: 'Santa Fe NM'
+  date: 'May 20, 2018'
+
+- name: 'Group Seminar "Bose Enhancement, Liouville action and shape of the proton"'
+  conf: 'Nuclear Theory Group, '
+  loc: 'Brookhaven National Laboratory'
+  date: 'May 11, 2018'
+
+- name: 'Seminar "Holonomy potential beyond one loop: Status report"'
+  conf: 'Ohio State University, '
+  loc: 'Columbus'
+  date: 'April 19, 2018'
+
+- name: 'Heavy-Ion Forum "Multiplicity biased pA collisions in CGC framework"'
+  conf: 'CERN, '
+  loc: 'Geneva, Switzerland'
+  date: 'March 22, 2018'
+
+- name: 'Group seminar "When gluons go odd"'
+  conf: 'CERN, '
+  loc: 'Geneva, Switzerland'
+  date: 'March 15, 2018'
+
+- name: 'Seminar "Saturation framework results on multiplicity biased pA collisions"'
+  conf: 'EMMI Nuclear and Quark Matter Seminar'
+  loc: 'ExtreMe Matter Institute EMMI, GSI Helmholtzzentrum fuer Schwerionenforschung, Germany'
+  date: 'March 7, 2018'
+
+- name: 'Colloquium "Quantum ChromoDynamics in extreme conditions"'
+  conf: 'North Carolina State University'
+  loc: 'Raleigh'
+  date: 'March 1, 2018'
+
+- name: 'Invited talk "Onset of Mesonic Condensation Phenomena from Higher Order Susceptibilities"'
+  conf: 'EMMI Workshop Constraining the QCD Phase Boundary with Data from Heavy Ion Collisions'
+  loc: 'ExtreMe Matter Institute EMMI, GSI Helmholtzzentrum fuer Schwerionenforschung, Germany'
+  date: 'February 14, 2018'
+
+- name: 'Colloquium "Quantum ChromoDynamics in extreme conditions"'
+  conf: 'Wayne State University'
+  loc: 'Detroit'
+  date: 'January 30, 2018'
+
+- name: 'Invited plenary talk "Initial perspective on the ridge"'
+  conf: '4-th international conference on Initial Stages in High-Energy Initial Collisions'
+  loc: 'Polish Academy of Arts and Sciences, Krakow, Poland'
+  date: 'September 18-22, 2017'
+
+- name: 'Seminar "Finding the QCD Critical Point"'
+  conf: 'EMMI Nuclear and Quark Matter Seminar'
+  loc: 'ExtreMe Matter Institute EMMI, GSI Helmholtzzentrum fuer Schwerionenforschung, Germany'
+  date: 'September 6, 2017'
+
+- name: '"Volume dependence of baryon number cumulants and their ratios"'
+  conf: 'CPOD 2017: Critical Point and Onset of Deconfinement'
+  loc: 'Stony Brook University, USA'
+  date: 'August 7-11, 2017'
+
+- name: 'Invited talk "Azimuthal Anisotropy in small-x DIS dijet production"'
+  conf: 'Synergies of pp and pA Collisions with an Electron-Ion Collider'
+  loc: 'Brookhaven National Laboratory'
+  date: 'June 28, 2017'
+
+- name: 'Invited talk "Odd Azimuthal Anisotropy from CGC"'
+  conf: 'RHIC & AGS Annual Users Meeting, Beam-Energy Scan in Small Systems'
+  loc: 'Brookhaven National Laboratory'
+  date: 'June 20, 2017'
+
+- name: 'Invited talk "CME, Isobars and Magnetic Field in Heavy Ion Collisions"'
+  conf: 'RHIC & AGS Annual Users Meeting, Isobar Program'
+  loc: 'Brookhaven National Laboratory'
+  date: 'June 20, 2017'
+
+- name: 'Invited talk "Magnetic field in heavy-ion collisions: case for isobaric collisions"'
+  conf: 'XII Workshop on Particle Correlations and Femtoscopy'
+  loc: 'NIKHEF, Amsterdam, The Netherlands'
+  date: 'June 14, 2017'
+
+- name: 'Invited talk "Fluctuations and observables: volume fluctuations and critical dynamics"'
+  conf: 'INT Program Exploring the QCD Phase Diagram through Energy Scans'
+  loc: 'Institute for Nuclear Research, Seattle'
+  date: 'September 28, 2016'
+
+- name: 'Invited talk "Azimuthal Anisotropy in Deep Inelastic Scattering Dijet Production at High Energy"'
+  conf: 'Electron-Ion Collider User Group Meeting 2016'
+  loc: 'Argonne National Laboratory'
+  date: 'July 7-9, 2016'
+
+- name: '"Onset of Mesonic Condensation Phenomena from Higher Order Susceptibilities"'
+  conf: 'Strangeness in Quark Matter 2016'
+  loc: 'UC Berkeley'
+  date: 'June 27 - July 1, 2016'
+
+- name: 'Invited talk "Onset of Mesonic Condensation Phenomena from Higher Order Susceptibilities"'
+  conf: 'RHIC&AGS Users meeting'
+  loc: 'Brookhaven National Laboratory'
+  date: 'June 7, 2016'
+
+- name: 'Invited talk "Jets at EIC"'
+  conf: 'Third annual fsPHENIX workshop'
+  loc: 'Iowa State University'
+  date: 'March 12, 2016'
+
+- name: 'Invited talk "Dijet Azimuthal Anisotropy in High Energy DIS"'
+  conf: 'Electron-Ion Collider Task Force meeting'
+  loc: 'Brookhaven National Laboratory'
+  date: 'March 10, 2016'
+
+- name: 'Invited talk "Magnetic field in heavy-ion collisions: case for isobar collisions"'
+  conf: 'Workshop on Chirality, Vorticity and Magnetic Field in Heavy Ion Collisions'
+  loc: 'University of California in Los-Angeles'
+  date: 'February 23-26, 2016'
+
+- name: 'Invited talk "Djiet Azimuthal Anisotropy In High Energy DIS"'
+  conf: 'Workshop on Emerging Spin and Transverse Momentum Effects in pp and p+A Collisions'
+  loc: 'Brookhaven National Laboratory'
+  date: 'February 8-10, 2016'
+
+- name: 'Seminar "Anisotropy of the semi-classical gluon field of a large nucleus at high energy"'
+  conf: 'Columbia University'
+  loc: 'New York'
+  date: 'March 9, 2015'
+
+- name: 'Seminar "Azimuthal anisotropy in dilute dense limit at high transverse momentum"'
+  conf: 'Brookhaven National Laboratory'
+  loc: 'Upton'
+  date: 'January 9, 2015'
+
+- name: 'Invited talk “Angular correlations in pA collisions from initial state physics”,'
+  conf: '6th Workshop of the APS Topical Group on Hadronic Physics'
+  loc: 'Baltimore'
+  date: 'April 8-10, 2015.'
+
+- name: 'Invited talk on “Initial asymmetries and emergent collectivity in high energy pA collisions”,'
+  conf: 'RBRC Collectivity in Small Colliding Systems with High Multiplicity'
+  loc: 'Brookhaven National Laboratory'
+  date: 'March 4-6, 2015.'
+
+- name: 'Invited talk "Phases of QCD and fluctuations"'
+  conf: 'Workshop on Beam Energy Scan II'
+  loc: 'Lawrence Berkeley National Laboratory, Berkeley'
+  date: 'September 27-29, 2014.'
+
+- name: 'Invited talk "Magnetic field effects on photon production"'
+  conf: 'Workshop Thermal Photons and Dileptons in Heavy-Ion Collisions'
+  loc: 'Brookhaven National Laboratory,'
+  date: 'August 20-22, 2014'
+
+- name: 'Invited talk "Fluctuations as a probe of QCD phase transitions"'
+  conf: 'RHIC and AGS Users meeting 2014'
+  loc: 'Brookhaven National Laboratory,'
+  date: 'June 18, 2014'
+
+- name: 'Invited plenary talk "QGP or not QGP"'
+  conf: 'APS meeting,'
+  loc: 'Savannah'
+  date: 'April 5, 2014'
+
+- name: '"Heavy-quark energy loss and photon production in semi-QGP"'
+  conf: 'Critical Mass Workshop'
+  loc: 'Toledo'
+  date: 'March 8, 2014'
+
+- name: 'Seminar "Non-trivial holonomy and heavy-quark energy loss"'
+  conf: 'CCNY'
+  loc: 'New York'
+  date: 'December 18, 2013'
+
+- name: 'Seminar "Semi-QGP"'
+  conf: 'Baruch College'
+  loc: 'New York '
+  date: 'December 16, 2013'
+
+- name: 'Seminar "Collectivity in p+Pb collisions at LHC"'
+  conf: 'Brookhaven National Laboratory'
+  loc: 'Upton '
+  date: 'December 13, 2013'
+
+- name: 'Seminar "Test of the saturation at LHC"'
+  conf: 'Kent State University'
+  loc: 'Kent'
+  date: 'December 3, 2013'
+
+- name: 'Seminar "Saturation and collectivity in p+Pb collisions at LHC"'
+  conf: 'Ohio State University'
+  loc: 'Columbus'
+  date: 'November 21, 2013'
+
+- name: 'Seminar "Partial color ionization in quark-gluon plasma and jet energy loss"'
+  conf: 'Texas A&M university'
+  loc: 'College Station '
+  date: 'November 15, 2013'
+
+- name: 'Seminar "Saturation at LHC"'
+  conf: 'Seminar at the University of Illinois'
+  loc: 'Chicago'
+  date: 'November 4, 2013'
+
+- name: 'Seminar "Test of saturation in p+A collisions at LHC"'
+  conf: 'Lawrence Berkeley National Laboratory'
+  loc: 'Berkeley '
+  date: 'October 22, 2013'
+
+- name: 'Seminar "Jet quenching in semiQGP"'
+  conf: 'University of Connecticut'
+  loc: 'Storrs'
+  date: 'September 30, 2013'
+
+- name: 'Seminar "Gross-Witten-Wadia phase transition in SU(N) and semi QGP"'
+  conf: 'University of Texas'
+  loc: 'El Paso'
+  date: 'September 13, 2013'
+
+- name: 'Invited talk "Magnetic field effects on electromagnetic radiation"'
+  conf: 'ECT*, '
+  loc: 'Trento'
+  date: 'May 20 - May 24, 2013'
+
+- name: '"Jet energy loss in partially ionized plasma"'
+  conf: 'Jet Quenching at RHIC vs LHC in Light of Recent dAu vs pPb Controls'
+  loc: 'BNL'
+  date: 'April 2013'
+
+- name: '"Magnetic field in heavy-ion collisions"'
+  conf: 'APS April meeting, '
+  loc: 'Denver'
+  date: 'April 15, 2013'
+
+- name: 'Invited talk "Classical field in heavy-ion collisions"'
+  conf: 'Brain Workshop '
+  loc: 'BNL'
+  date: 'March 21, 2013'
+
+- name: 'Invited talk "Charge fluctuations at QCD phase transitions and effect of volume fluctuations"'
+  conf: 'CPOD 2013'
+  loc: 'California, USA'
+  date: 'March 11-15, 2013'
+
+- name: 'Seminar "Magnetic field and photon production in HIC"'
+  conf: 'Giessen University'
+  loc: 'Giessen Germany'
+  date: 'February 22, 2013'
+
+- name: 'Invited talk "O(4) vs. Z(2) Criticality: Theory and Experiment"'
+  conf: 'EMMI rapid reaction task force on Probing the Phase Structure of Strongly Interacting Matter with Fluctuations: Theory and Experiment'
+  loc: 'GSI, Darmstadt, Germany'
+  date: 'February 11-22, 2013'
+
+- name: 'Seminar "Anisotropy of photon production"'
+  conf: 'Indiana University'
+  loc: 'Bloomington, IN'
+  date: 'January 25, 2013'
+
+- name: 'Seminar "Anisotropy of photon production and magnetic field in HIC"'
+  conf: 'MSU, '
+  loc: 'East Lansing'
+  date: 'January 15, 2013'
+
+- name: 'Seminar "High magnetic field and photon production in HIC"'
+  conf: 'North Carolina University'
+  loc: 'Raleigh'
+  date: 'December 11, 2012'
+
+- name: 'Invited talk "Conformal anomaly and photon productions"'
+  conf: 'Workshop on Thermal Radiation'
+  loc: 'Brookhaven National Laboratory'
+  date: 'December 5-7, 2012'
+
+- name: '24"Fluctuations as a probe of QCD phase diagram"'
+  conf: 'Young Researchers Talk, YRS BNL'
+  loc: 'Brookhaven National Laboratory'
+  date: 'November 30, 2012'
+
+- name: 'Seminar "Making sense of photon azimuthal anisotropy"'
+  conf: 'EMMI GSI '
+  loc: 'Darmstadt, Germany  '
+  date: 'November 22, 2012'
+
+- name: 'Seminar "High magnetic field in HIC and photon azimuthal anisotropy"'
+  conf: 'Heidelberg University'
+  loc: 'Heidelberg'
+  date: 'November 20, 2012'
+
+- name: 'Invited talk "High magnetic field in HIC and photon azimuthal anisotropy"'
+  conf: 'Workshop on QCD in strong magnetic fields'
+  loc: 'Trento, Italy'
+  date: 'November 12-16, 2012'
+
+- name: 'Seminar "Photon azimuthal anisotropy in HIC"'
+  conf: 'TU Darmstadt'
+  loc: 'Darmstadt'
+  date: 'November 8, 2012'
+
+- name: '"Effective models for deconfinement/QCD at high temperatures"'
+  conf: 'Hot Quarks 2012 '
+  loc: 'Puerto Rico'
+  date: 'October 14-20, 2012'
+
+- name: 'Invited talk "Fluctuations and the phase diagram of QCD"'
+  conf: 'QCD Structure 1'
+  loc: 'Central China Normal University, Wuhan, China'
+  date: 'October 7-20, 2012'
+
+- name: 'Seminar "Making sense of the photon azimuthal anisotropy"'
+  conf: 'RIKEN Lunch Seminar'
+  loc: 'Brookhaven National Laboratory'
+  date: 'September 13, 2012'
+
+- name: '"Conformal anomaly as a source of soft photons in heavy ion collisions"'
+  conf: 'xQCD, Quark Matter 2012 Satellite Meeting on Extreme QCD'
+  loc: 'Washington DC'
+  date: 'August 21-23, 2012'
+
+- name: 'Invited Plenary talk "Fluctuations: from theory to observables",'
+  conf: 'Quark Matter conference, 2012'
+  loc: 'Washington DC'
+  date: 'August 13-18, 2012'
+
+- name: 'Invited talk "Theory: Critical Point Search from RHIC Beam Energy Scan"'
+  conf: 'RHIC & AGS Annual Users Meeting,'
+  loc: 'HI Workshop, Brookhaven National Laboratory,'
+  date: 'June 12-15, 2012'
+
+- name: 'Invited talk "Baryon and Electric Charge Fluctuations Near Chiral Crossover Transition”'
+  conf: 'International Workshop on Critical Point and Onset of Deconfinement'
+  loc: 'Central China Normal University, Wuhan, China'
+  date: 'November 11, 2011'
+
+- name: 'Seminar "Study of QCD phase diagram with charge fluctuations"'
+  conf: 'RIKEN Lunch Seminar,'
+  loc: 'Brookhaven National Laboratory, Upton, USA'
+  date: 'November 3, 2011'
+
+- name: 'Invited talk "Charge fluctuations in effective chiral models"'
+  conf: 'BNL Workshop on Fluctuations, Correlations and RHIC Low Energy Runs'
+  loc: 'Brookhaven National Laboratory'
+  date: 'October 3, 2011'
+
+- name: 'Seminar "Introduction to functional renormalization group approach"'
+  conf: 'Nuclear Theory Seminar'
+  loc: 'Yukawa Institute'
+  date: 'September 6, 2011'
+
+- name: 'Invited talk "Probing QCD phase diagram with charge fluctuations"'
+  conf: 'Yukawa International Molecule Workshop / EMMI Program'
+  loc: 'Renormalization Group Approach from Ultra Cold Atoms to the Hot QGP'
+  date: 'September 5, 2011'
+
+- name: 'Colloquium "Probing QCD phase diagram with charge fluctuations"'
+  conf: 'HIC4FAIR Kernphysikalisches Kolloquium'
+  loc: 'Goethe-Universitaet, Frankfurt, Germany'
+  date: 'July 17, 2011'
+
+- name: '"Charge fluctuations in chiral models and the QCD phase transitions"'
+  conf: 'Quark Matter Conference 2011'
+  loc: 'Annecy, France'
+  date: 'May 23-28, 2011'
+
+- name: '"The renormalization group and quark number fluctuations in the Polyakov loop extended quark-meson model at finite baryon density"'
+  conf: 'HIC 4 FAIR workshop and XXVIII Max Born Symposium satellite meeting for Quark Matter 2011'
+  loc: 'Wroclaw, Poland'
+  date: 'May 19, 2011'
+
+- name: '"Mapping out the phase diagram"'
+  conf: 'EMMI workshop "Strongly Coupled Systems"'
+  loc: 'GSI, Darmstadt, Germany'
+  date: 'November 17, 2010'
+
+- name: '"Mapping out QCD phase diagram"'
+  conf: 'Institute "The first heavy ion collisions at the LHC - HIC10"'
+  loc: 'CERN, Geneva, Switzerland'
+  date: 'September 1, 2010'
+
+- name: 'Colloquium "Dynamics of first-order phase transitions"'
+  conf: 'HIC 4 FAIR'
+  loc: 'Giessen'
+  date: 'July 1, 2010'
+
+- name: '"Meson fluctuations and thermodynamics of the Polyakov-loop-extended quark-meson model"'
+  conf: 'Extreme QCD 2010'
+  loc: 'Physikzentrum Bad Honnef, Germany'
+  date: 'July 21-23, 2010'
+
+- name: '"Hydrodynamical description of first order phase transitions"'
+  conf: 'International Workshop XXXVIII on Gross Properties of Nuclei and Nuclear Excitations, Strongly Interacting Matter under Extreme Conditions'
+  loc: 'Hirschegg, Kleinwalsertal, Austria'
+  date: 'January 17-23, 2010'

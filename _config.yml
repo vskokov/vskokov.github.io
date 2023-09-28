@@ -1,0 +1,14 @@
+title: Vladi Skokov's group  
+description: Website of Vladi Skokov's group 
+theme: just-the-docs
+
+
+favicon_ico: "/assets/images/favicon.ico"
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
+
+
+  #color_scheme: dark
+color_scheme: light
