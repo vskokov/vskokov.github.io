@@ -5,5 +5,5 @@ source 'https://rubygems.org'
 
 gem "github-pages", "~> 228", group: :jekyll_plugins
 
-gem "just-the-docs", "0.6.2" # pinned to the current release
+gem "just-the-docs" # pinned to the current release
 # gem "just-the-docs"        # always download the latest release
