@@ -15,21 +15,21 @@ Last modified: {{ 'now' | date: "%Y %h" }}
 
 ## Research directions
 
-Most but not all of our work is in theoretical high energy nuclear physics. 
+Most but not all of our work is in theoretical high-energy nuclear physics. 
 
-Our primary research interests irevolve around two main subject:  
+Our primary research interests revolve around two main subjects:  
 
 {: .important-title }
 > Hadrons at high energy 
 >
-> Nuclear structure and nuclear wave functions at high energies. Recent experiment and advances in theory suggest that, at high energies, every hadron, including proton, neutron and nucleus appear as dense “walls” of gluons, creating what might be among the strongest (chromo)electric and magnetic fields in nature. Studying this novel form of matter, the so-called color glass condensate, will help better understand non-linear dynamics of quantum-chromodynamics.
+> Nuclear structure and nuclear wave functions at high energies. Recent experiments and advances in theory suggest that, at high energies, every hadron, including proton, neutron, and nucleus, appears as dense “walls” of gluons, creating what might be among the strongest (chromo)electric and magnetic fields in nature. Studying this novel form of matter, the so-called color glass condensate will help better understand the non-linear dynamics of quantum-chromodynamics.
 
 
 
 {: .important-title }
 > QCD phase diagram 
 > 
-> Quantum Chromodynamics (QCD) in extreme conditions, including hight temperature, density or/and magnetic field. Phase diagram of QCD is the only one of Standard model of elementary particles that can be probed experimentaly. Out goal is to provide theoretical support to experemental colleagues to map out QCD phase diagram.   
+> Quantum Chromodynamics (QCD) in extreme conditions, including high temperature, density or/and magnetic field. The QCD phase diagram is the only one of the Standard model of elementary particles that can be probed experimentally. We aim to provide theoretical support to experimental colleagues to map out the QCD phase diagram.   
 
 
 ## Research highlights 
