@@ -40,4 +40,9 @@ Tenured Associate  Professor and RBRC BNL fellow
 *   high energy QCD, structure of nuclei and hadrons, deep inelastic scattering, transverse momentum dependent parton distribution functions, three-dimensional structure of nucleons and nuclei in momentum and configuration space; phenomenology of high-energy electron-proton/ion, hadron and heavy-ion collision
 
 *   quantum information and quantum computing 
-    
+
+---------------------------- 
+
+### Recent Awards
+
+* 2022-23 LeRoy and Elva Martin Award for Teaching Excellence
