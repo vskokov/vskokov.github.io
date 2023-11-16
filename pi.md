@@ -45,4 +45,4 @@ Tenured Associate  Professor and RBRC BNL fellow
 
 ### Recent Awards
 
-* 2022-23 LeRoy and Elva Martin Award for Teaching Excellence
+* [2022-23 LeRoy and Elva Martin Award for Teaching Excellence](https://sciences.ncsu.edu/news/college-honors-2022-23-leroy-and-elva-martin-award-recipients/)
