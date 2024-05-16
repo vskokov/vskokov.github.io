@@ -1,3 +1,8 @@
+- name: 'Invited talk "Rethinking running coupling in JIMWLK" '
+  conf: '["Workshop on overlap between QCD resummations"](https://indico.cern.ch/event/1290502/timetable/#20240115), '
+  loc: 'Aussois, Centre Paul Langevin, France'
+  date: 'January 14-17, 2024 '
+
 - name: 'Invited talk "Yang-Lee edge singularity and QCD phase diagram" '
   conf: '["European network for Particle Physics, Lattice field theory and Extreme computing Final Conference"](https://indico.desy.de/event/38889/), '
   loc: 'Institute for Physics, Humboldt University Berlin'
