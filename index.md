@@ -58,3 +58,8 @@ Undergraduate student lead
 
 ![Model H z](https://inspirehep.net/files/66674c85c2204835d6588978249abf9d)
 
+## Mermaid Diagrams
+{: .d-inline-block }
+
+New (v0.4.0)
+{: .label .label-green }
