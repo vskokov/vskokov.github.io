@@ -11,7 +11,7 @@ nav_order: 3
 ### Postdocs 
 1. Andrey Tarasov, joined in 2022
 * Supported by CFNS and DOE 
-* Project "Gluon saturation nd TMD's" 
+* Project "Gluon saturation and TMD's" 
 
 ### Graduate students 
 1. [Shaswat Tiwari](https://inspirehep.net/authors/2099930?ui-citation-summary=true), joined in 2021
@@ -31,7 +31,7 @@ nav_order: 3
 ### Undergraduate students 
 
 1. [Josh Ott](https://github.com/ottjk?tab=overview&from=2023-08-01&to=2023-08-31)
-* Project "Critical dynamics in Model B and Model H", [PRD](https://inspirehep.net/literature/2651432)
+* Project "Critical dynamics in Model B and Model H", published in [Phys. Rev. D](https://inspirehep.net/literature/2651432)
 * SULI at BNL's lattice QCD group,  2023
 * Recipient of [OUR Research Assistant Program](https://undergradresearch.dasa.ncsu.edu/our-paid-research-assistant-position/), 2023-2024
 * Recipient of [ASTRONAUT scholarship](https://astronautscholarship.org/scholars.html), 2024
@@ -44,6 +44,6 @@ nav_order: 3
 * Recipient of [OUR Research Assistant Program](https://undergradresearch.dasa.ncsu.edu/our-paid-research-assistant-position/), 2023 
 
 3. Miles Bryant
-* Project "Yang-Lee ede singularity from Fourier coefficients of baryon number"
+* Project "Yang-Lee ede singularity from Fourier coefficients of baryon number", published in [Phys. Rev. D](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.109.076021)
 
 
