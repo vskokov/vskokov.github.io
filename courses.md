@@ -14,5 +14,6 @@ nav_order: 2
 *   Fall 2021, Computational Physics (PY525), North Carolina State University
 *   Fall 2022,  Algebra-based Physics II (E&M), North Carolina State University    
 *   Fall 2023,  Advanced Classical Mechanics (graduate level) , North Carolina State University
+*   Fall 2024,  Algebra-based Physics II (E&M), North Carolina State University  
     
 
