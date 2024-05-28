@@ -34,22 +34,12 @@ Our primary research interests revolve around two main subjects:
 
 ## Research highlights 
 
-work in progress 
-
 Student lead 
 {: .label }
 
+[Shaswat Tiwari's invited talk at QCD evolution, 2024](https://agenda.infn.it/event/38747/timetable/#20240528.detailed)
+[Tiyasa Kar's talk at Beyond-Eikonal Methods in High-Energy Scattering, 2024](https://indico.ectstar.eu/event/205/timetable/#20240523.detailed)
 
 
-Published
-{: .label .label-green }
-
-Coming soon
-{: .label .label-yellow }
-
-
-## Publications 
-
-work in progress 
 
 
