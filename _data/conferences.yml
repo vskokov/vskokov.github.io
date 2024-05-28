@@ -1,3 +1,8 @@
+- name: 'Keynote speaker "TMD factorization bridging large and small x" '
+  conf: '["Beyond-Eikonal Methods in High-Energy Scattering"](https://indico.ectstar.eu/event/205/timetable/#20240523.detailed), '
+  loc: 'ECT*, Trento, Italy'
+  date: 'May 20-24, 2024 '
+
 - name: 'Invited talk "Rethinking running coupling in JIMWLK" '
   conf: '["Workshop on overlap between QCD resummations"](https://indico.cern.ch/event/1290502/timetable/#20240115), '
   loc: 'Aussois, Centre Paul Langevin, France'
