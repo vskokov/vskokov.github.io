@@ -35,31 +35,22 @@ Our primary research interests revolve around two main subjects:
 ## Research highlights 
 
 [Shaswat Tiwari's invited talk at QCD evolution, 2024](https://agenda.infn.it/event/38747/timetable/#20240528.detailed)  
-
 {: .d-inline-block } 
 
 Graduate student lead 
-{: .label}
+{: .label }
 
 [Tiyasa Kar's talk at Beyond-Eikonal Methods in High-Energy Scattering, 2024](https://indico.ectstar.eu/event/205/timetable/#20240523.detailed) 
-
 {: .d-inline-block } 
 
 Graduate student lead 
-{: .label}
+{: .label }
 
 
 [First non-perturbative determination of dynamical critical exponent in model H](https://inspirehep.net/literature/2769440) 
-
 {: .d-inline-block } 
 
 Undergraduate student lead 
-{: .label .label-purple}
+{: .label .label-purple }
 
 ![Model H z](https://inspirehep.net/files/66674c85c2204835d6588978249abf9d)
-
-## Mermaid Diagrams
-{: .d-inline-block }
-
-New (v0.4.0)
-{: .label .label-green }
