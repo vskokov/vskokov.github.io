@@ -38,17 +38,18 @@ Our primary research interests revolve around two main subjects:
 
 {: .d-inline-block } 
 
-Graduate student lead {: .label }
+Graduate student lead 
+{: .label}
 
 [Tiyasa Kar's talk at Beyond-Eikonal Methods in High-Energy Scattering, 2024](https://indico.ectstar.eu/event/205/timetable/#20240523.detailed) 
 
 {: .d-inline-block } 
 
-Graduate student lead {: .label }
+Graduate student lead 
+{: .label}
 
 
-
-[First non-perturbative determination of the dynamical critical exponent in model H](https://inspirehep.net/literature/2769440) 
+[First non-perturbative determination of dynamical critical exponent in model H](https://inspirehep.net/literature/2769440) 
 
 {: .d-inline-block } 
 
