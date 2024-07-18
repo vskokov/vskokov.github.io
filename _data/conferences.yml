@@ -1,3 +1,13 @@
+- name: 'Invited Plenary talk "Yang-Lee Edge singularity and the structure of QCD phase diagram" '
+  conf: '[" 20th International Conference on QCD in Extreme Conditions (XQCD 2024) "](https://indico.cern.ch/event/1374713/), '
+  loc: 'Institute of Modern Physics (IMP), Chinese Academy of Sciences, in Lanzhou, China'
+  date: 'July 18, 2024 '
+
+- name: 'Invited lectures "Yang-Lee Edge singularity" '
+  conf: '[" XQCD PhD school  "](https://indico.cern.ch/event/1388433/overview), '
+  loc: 'Institute of Modern Physics (IMP), Chinese Academy of Sciences, in Lanzhou, China'
+  date: 'July 15-16, 2024 '
+  
 - name: 'Keynote speaker "TMD factorization bridging large and small x" '
   conf: '["Beyond-Eikonal Methods in High-Energy Scattering"](https://indico.ectstar.eu/event/205/timetable/#20240523.detailed), '
   loc: 'ECT*, Trento, Italy'
