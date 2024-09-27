@@ -1,3 +1,13 @@
+- name: 'Invited plenary talk "Yang-Lee edge singularity with Functional RG" '
+  conf: '[" 12th International conference on Exact Renormalization Group (ERG2024) "](https://indico.cern.ch/event/1244171/timetable), '
+  loc: 'SRS, Les Diablerets, Switzerland'
+  date: 'Sep 22-27, 2024 ' 
+
+- name: 'Invited talk "Universal location of Yang-Lee edge singularity from Functional RG" '
+  conf: '[" QuantFunc, 2024 "](https://quantfunc.blogs.uv.es/), '
+  loc: 'Valencia University, Valencia, Spain'
+  date: 'Sep 2-6, 2024 '
+
 - name: 'Invited Plenary talk "Yang-Lee Edge singularity and the structure of QCD phase diagram" '
   conf: '[" 20th International Conference on QCD in Extreme Conditions (XQCD 2024) "](https://indico.cern.ch/event/1374713/), '
   loc: 'Institute of Modern Physics (IMP), Chinese Academy of Sciences, in Lanzhou, China'
