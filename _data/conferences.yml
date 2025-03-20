@@ -1,3 +1,18 @@
+- name: 'Invited talk "Satruration: theory overview" '
+  conf: 'APS meeting, 2025'
+  loc: 'Anaheim, CA'
+  date: 'Mar 17, 2024 ' 
+
+- name: ' "Yang Lee Edge Singularity with FRG" '
+  conf: 'APS meeting, 2025'
+  loc: 'Anaheim, CA'
+  date: 'Mar 17, 2024 ' 
+
+- name: 'Colloquium "Yang-Lee edge singularity and QCD phase diagram" '
+  conf: 'Physics Department colloquium'
+  loc: 'East Carolina University'
+  date: 'Nov 11, 2024 ' 
+
 - name: 'Invited plenary talk "Yang-Lee edge singularity with Functional RG" '
   conf: '["12th International conference on Exact Renormalization Group (ERG2024)"](https://indico.cern.ch/event/1244171/timetable), '
   loc: 'SRS, Les Diablerets, Switzerland'
