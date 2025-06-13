@@ -1,10 +1,10 @@
 - name: 'Two invited lectures on "Entanglement for high energy scattering"'
-  conf: 'CFNS-SURGE Summer Workshop on the Physics of the Electron-Ion Collider '
+  conf: '[CFNS-SURGE Summer Workshop on the Physics of the Electron-Ion Collider](https://indico.cfnssbu.physics.sunysb.edu/event/357/overview) '
   loc: 'CFNS, Stony Brook University, NY'
   date: 'June 12 and 13, 2025 ' 
 
 - name: '"Subeikonal corrections for EIC"'
-  conf: 'CFNS-INT Joint Program: Precision QCD with the Electron Ion Collider'
+  conf: '[CFNS-INT Joint Program: Precision QCD with the Electron Ion Collider](https://www.int.washington.edu/index.php/programs-and-workshops/25-1)'
   loc: 'INT, University of Washington, WA'
   date: 'May 30, 2025 ' 
 
@@ -24,7 +24,7 @@
   date: 'Nov 11, 2024 ' 
 
 - name: 'Invited plenary talk "Yang-Lee edge singularity with Functional RG" '
-  conf: '["12th International conference on Exact Renormalization Group (ERG2024)"](https://indico.cern.ch/event/1244171/timetable), '
+  conf: '["12th International conference on Exact Renormalization Group (ERG2024)"](https://indico.cern.ch/event/1244171/timetable) '
   loc: 'SRS, Les Diablerets, Switzerland'
   date: 'Sep 22-27, 2024 ' 
 
