@@ -1,12 +1,22 @@
-- name: 'Invited talk "Satruration: theory overview" '
+- name: 'Two invited lectures on "Entanglement for high energy scattering"'
+  conf: 'CFNS-SURGE Summer Workshop on the Physics of the Electron-Ion Collider '
+  loc: 'CFNS, Stony Brook University, NY'
+  date: 'June 12 and 13, 2025 ' 
+
+- name: '"Subeikonal corrections for EIC"'
+  conf: 'CFNS-INT Joint Program: Precision QCD with the Electron Ion Collider'
+  loc: 'INT, University of Washington, WA'
+  date: 'May 30, 2025 ' 
+
+- name: 'Invited talk "Saturation: theory overview" '
   conf: 'APS meeting, 2025'
   loc: 'Anaheim, CA'
-  date: 'Mar 17, 2024 ' 
+  date: 'Mar 17, 2025 ' 
 
 - name: ' "Yang Lee Edge Singularity with FRG" '
   conf: 'APS meeting, 2025'
   loc: 'Anaheim, CA'
-  date: 'Mar 17, 2024 ' 
+  date: 'Mar 17, 2025 ' 
 
 - name: 'Colloquium "Yang-Lee edge singularity and QCD phase diagram" '
   conf: 'Physics Department colloquium'
