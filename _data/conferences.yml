@@ -1,3 +1,23 @@
+- name: 'Invited talk "Yang-Lee edge"'
+  conf: '[Workshop "Exploring QCD matters at High Temperature and Density"](https://www.bnl.gov/qcdmatters2026/) '
+  loc: 'Brookhaven National Laboratory, Upton, NY'
+  date: 'Feb 2-4, 2026' 
+
+- name: '"QCD critical point: theory summary"'
+  conf: '[INT Workshop "The QCD Critical Point: Are We There Yet?"](https://live-int-uw-edu.pantheonsite.io/programs-and-workshops/25-3a) '
+  loc: 'INT, University of Washington, WA'
+  date: 'Oct 27 - Nov 7, 2025' 
+  
+- name: '"Yang-Lee edge singularity"'
+  conf: '[INT Workshop "The QCD Critical Point: Are We There Yet?"](https://live-int-uw-edu.pantheonsite.io/programs-and-workshops/25-3a) '
+  loc: 'INT, University of Washington, WA'
+  date: 'Oct 27 - Nov 7, 2025' 
+
+- name: '"Analytic structure of QCD and Yang-Lee edge singularity: introduction"'
+  conf: '[ECT* Workshop on Analytic structure of QCD and Yang-Lee edge singularity](https://indico.ectstar.eu/event/243/) '
+  loc: 'Trento, Italy'
+  date: 'Sep 8-12, 2025 ' 
+
 - name: 'Two invited lectures on "Entanglement for high energy scattering"'
   conf: '[CFNS-SURGE Summer Workshop on the Physics of the Electron-Ion Collider](https://indico.cfnssbu.physics.sunysb.edu/event/357/overview) '
   loc: 'CFNS, Stony Brook University, NY'
