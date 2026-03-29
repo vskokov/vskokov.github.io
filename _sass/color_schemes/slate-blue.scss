@@ -1,0 +1,32 @@
+// Slate-blue dark theme inspired by ntjobs.us
+// Background palette: deep navy/slate tones; accent: bright blue
+
+$color-scheme: dark;
+
+// Backgrounds
+$body-background-color: #0f172a;   // slate-900 — page background
+$sidebar-color:         #1e293b;   // slate-800 — sidebar / nav panel
+$feedback-color:        #162032;   // slightly lighter than body bg for callout blocks
+$table-background-color: #1e293b;
+$search-background-color: #1e293b;
+$code-background-color: #1e293b;
+
+// Text
+$body-heading-color:  #f1f5f9;   // slate-100
+$body-text-color:     #cbd5e1;   // slate-300
+$nav-child-link-color: #94a3b8;  // slate-400
+
+// Links & buttons
+$link-color:          #60a5fa;   // blue-400
+$link-color-visited:  #818cf8;   // indigo-400
+$btn-primary-color:   #1d4ed8;   // blue-700
+$base-button-color:   #1e293b;
+
+// Borders
+$border-color: #334155;          // slate-700
+
+// Search results
+$search-result-preview-color: #94a3b8;
+
+// Code line numbers
+$code-linenumber-color: #cbd5e1;

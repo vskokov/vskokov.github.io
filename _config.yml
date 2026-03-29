@@ -12,4 +12,5 @@ back_to_top_text: "Back to top"
 
 
   #color_scheme: dark
-color_scheme: light
+  #color_scheme: light
+color_scheme: slate-blue
