@@ -68,6 +68,6 @@ Ming Li
 * Project "Yang-Lee edge singularity from Fourier coefficients of baryon number", published in [Phys. Rev. D](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.109.076021)
 
 6. Evan Budd
-* Project ["JIMWLK on QC"]{https://inspirehep.net/literature/3125358}
+* Project ["JIMWLK on QC"](https://inspirehep.net/literature/3125358)
 * Recipient of the Goldwater Scholarship, 2026
 * SULI at BNL's lattice QCD group, 2025
