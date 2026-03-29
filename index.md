@@ -31,26 +31,3 @@ Our primary research interests revolve around two main subjects:
 > 
 > Quantum Chromodynamics (QCD) in extreme conditions, including high temperature, density or/and magnetic field. The QCD phase diagram is the only one of the Standard model of elementary particles that can be probed experimentally. We aim to provide theoretical support to experimental colleagues to map out the QCD phase diagram.   
 
-
-## Research highlights 
-
-[Shaswat Tiwari's invited talk at QCD evolution, 2024](https://agenda.infn.it/event/38747/timetable/#20240528.detailed)  
-{: .d-inline-block } 
-
-Gr. student lead 
-{: .label }
-
-[Tiyasa Kar's talk at Beyond-Eikonal Methods in High-Energy Scattering, 2024](https://indico.ectstar.eu/event/205/timetable/#20240523.detailed) 
-{: .d-inline-block } 
-
-Gr. student lead 
-{: .label }
-
-
-[First non-perturbative determination of dynamical critical exponent in model H](https://inspirehep.net/literature/2769440) 
-{: .d-inline-block } 
-
-Undergr. student lead 
-{: .label .label-purple }
-
-![Model H z](https://inspirehep.net/files/66674c85c2204835d6588978249abf9d)
