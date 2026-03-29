@@ -8,7 +8,7 @@ nav_order: 3
 
 ## Current group members 
 
-### Postdocs 
+### Research assistant professor 
 1. Andrey Tarasov, joined in 2022
 * Supported by CFNS and DOE 
 * Project "Gluon saturation and TMD's" 
@@ -23,8 +23,9 @@ nav_order: 3
 
 ### Undergraduate students 
 
-1. Robert Maguire
+1. Robert Maguire, joined in 2024
+* [Model F](https://inspirehep.net/literature/3132774)
 
-2. Hailey Mayhew
+3. Hailey Mayhew, joined in 2025
 
 
