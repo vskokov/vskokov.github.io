@@ -12,7 +12,6 @@ nav_order: 2
 
 Tenured Associate  Professor and RBRC BNL fellow   
 * [Nuclear Theory Group](https://nuclth.wordpress.ncsu.edu), [Physics Department](https://physics.sciences.ncsu.edu), North Carolina State University,  Raleigh, NC 27607 
-* [Riken-BNL Research Center](https://www.bnl.gov/riken/), Physics Department, Brookhaven National Laboratory,  NY 11973 
 
 ### Contact information:
 * Email: VSkokov.at.ncsu.edu
