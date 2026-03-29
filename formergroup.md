@@ -8,7 +8,7 @@ nav_order: 1
 ## Former group members
 ### Postdocs 
 Ming Li 
-- Currently at OSU 
+- Currently faculty at Hampton Uni 
 - Main projects at NCSU 
     - "First saturation correction in high energy proton-nucleus collisions",  [part 1](https://inspirehep.net/literature/1844416), [part 2](https://inspirehep.net/literature/1856087), [part 3](https://inspirehep.net/literature/1964606)
     - "Probing Gluon Bose Correlations in Deep Inelastic Scattering", [PRL](https://inspirehep.net/literature/1866110), [PRD](https://inspirehep.net/literature/2654064)
@@ -16,7 +16,7 @@ Ming Li
 
 ### Graduate students 
 1. [Haowu Duan](https://physics.sciences.ncsu.edu/people/hduan2/), group member during 2018-2023 
-* Currently postdoc at UCONN   
+* Currently postdoc at Wuhan   
 * Graduated at NCSU in Summer 2023
 * PhD titled ["Quantum Information Perspective on High Energy Hadron Wave Function: Entanglement and Correlations"](https://inspirehep.net/literature/2694696)
 * [List of publications](https://inspirehep.net/authors/2036679)
@@ -28,6 +28,7 @@ Ming Li
 
 3. [Shaswat Tiwari](https://inspirehep.net/authors/2099930?ui-citation-summary=true), group member during 2021-2025
 * Graduated at NCSU in Summer 2025
+* Currently postdoc at BNL
 * PhD titled ["A new TMD Factorization Relating Large-x and Small-x"](https://repository.lib.ncsu.edu/items/656c9db1-e3ce-45a9-897a-c5bce9b60a09)
 
 4. Zichen Zhao, group member during 2021-2025
@@ -35,6 +36,7 @@ Ming Li
 * PhD titled "DGLAP Resummation and the Running Coupling in NLO JIMWLK"
 
 5. Arzu Alkhanova, graduate student
+* Project "FRG for PDF"
 
 
 ### Undergraduate students 
@@ -66,3 +68,6 @@ Ming Li
 * Project "Yang-Lee edge singularity from Fourier coefficients of baryon number", published in [Phys. Rev. D](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.109.076021)
 
 6. Evan Budd
+* Project ["JIMWLK on QC"]{https://inspirehep.net/literature/3125358}
+* Recipient of the Goldwater Scholarship, 2026
+* SULI at BNL's lattice QCD group, 2025
