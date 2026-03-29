@@ -5,7 +5,7 @@ nav_order: 100
 ---
 
 
-* [Nuclear theory jobs](ntjobs.us) 
+* [Nuclear theory jobs](https://ntjobs.us) 
 * [INSPIRE](https://inspirehep.net)
 * [EIC UG](https://www.eicug.org)
 
