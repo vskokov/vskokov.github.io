@@ -1,32 +1,22 @@
-// Slate-blue dark theme inspired by ntjobs.us
-// Background palette: deep navy/slate tones; accent: bright blue
-
 $color-scheme: dark;
 
-// Backgrounds
-$body-background-color: #0f172a;   // slate-900 — page background
-$sidebar-color:         #1e293b;   // slate-800 — sidebar / nav panel
-$feedback-color:        #162032;   // slightly lighter than body bg for callout blocks
-$table-background-color: #1e293b;
-$search-background-color: #1e293b;
-$code-background-color: #1e293b;
+$body-background-color: #0a1020;
+$sidebar-color: #111a30;
+$feedback-color: #18233b;
+$table-background-color: #111a30;
+$search-background-color: #111a30;
+$code-background-color: #101827;
 
-// Text
-$body-heading-color:  #f1f5f9;   // slate-100
-$body-text-color:     #cbd5e1;   // slate-300
-$nav-child-link-color: #94a3b8;  // slate-400
+$body-heading-color: #f8fbff;
+$body-text-color: #d7e1ef;
+$nav-child-link-color: #afbdd1;
 
-// Links & buttons
-$link-color:          #60a5fa;   // blue-400
-$link-color-visited:  #818cf8;   // indigo-400
-$btn-primary-color:   #1d4ed8;   // blue-700
-$base-button-color:   #1e293b;
+$link-color: #5eead4;
+$link-color-visited: #c084fc;
+$btn-primary-color: #0f766e;
+$base-button-color: #142039;
 
-// Borders
-$border-color: #334155;          // slate-700
+$border-color: #34445f;
 
-// Search results
-$search-result-preview-color: #94a3b8;
-
-// Code line numbers
-$code-linenumber-color: #cbd5e1;
+$search-result-preview-color: #b9c7d8;
+$code-linenumber-color: #d7e1ef;

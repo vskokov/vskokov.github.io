@@ -18,8 +18,8 @@ Tenured Associate  Professor and RBRC BNL fellow
 
 ### Additional information: 
 
-* [ORCID](http://orcid.org/0000-0001-7619-1796) & [Google Scholar](https://scholar.google.com/citations?user=cjhR85kAAAAJ&hl=en)
-* [List of publications](http://inspirehep.net/search?ln=en&ln=en&p=f+a+skokov&of=hb&action_search=Search&sf=&so=d&rm=&rg=50&sc=0)  
+* [ORCID](https://orcid.org/0000-0001-7619-1796) & [Google Scholar](https://scholar.google.com/citations?user=cjhR85kAAAAJ&hl=en)
+* [List of publications](https://inspirehep.net/literature?sort=mostrecent&size=50&page=1&q=f%20a%20skokov)
 * [List of recent talks](/talks)
 
 ----------------------------
