@@ -16,9 +16,11 @@ nav_order: 3
 ### Graduate students 
 1. [Tiyasa Kar](https://inspirehep.net/authors/1950321?ui-citation-summary=true), joined in 2022
 * Project "Bose correlations in DIS, and subeikonal corrections in DIS"
+* Recipient of the 2026-2027 Chateaubriand STEM Fellowship
 
 2. [Ramkumar Radhakrishnan](https://inspirehep.net/authors/1818780?ui-citation-summary=true), joined in 2022 
 * Project "Particle production at NLO and degenerate LCPT" 
+* Recipient of BGU's PhD Sandwich Program fellowship
 
 
 ### Undergraduate students 
@@ -27,5 +29,3 @@ nav_order: 3
 * [Model F](https://inspirehep.net/literature/3132774)
 
 3. Hailey Mayhew, joined in 2025
-
-
