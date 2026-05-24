@@ -27,5 +27,6 @@ nav_order: 3
 
 1. Robert Maguire, joined in 2024
 * [Model F](https://inspirehep.net/literature/3132774)
+* Recipient of the Science Undergraduate Laboratory Internship at Brookhaven National Lab in 2026
 
 3. Hailey Mayhew, joined in 2025
